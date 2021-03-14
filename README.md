@@ -1,5 +1,23 @@
+# logo
+BashFunc
 
-# Logo
+#Font
+
+
+# Colors
+
+## Font
+
+    #000000
+
+## Background
+
+    #FFFFFF, #ffce00
+
+## Icon
+  
+    #d00
+
 
 ## 1
 ![1/cover.png](1/cover.png)
